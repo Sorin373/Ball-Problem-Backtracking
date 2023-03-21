@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679433178 source:c:\users\sorin\downloads\ball-problem-backtracking-codeblocks-version\ball-problem-backtracking-codeblocks-version\main.cpp
+	<iostream>
+	<fstream>
+
