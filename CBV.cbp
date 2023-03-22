@@ -32,9 +32,9 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="board.txt" />
+		<Unit filename="tabla.txt" />
 		<Unit filename="main.cpp" />
-		<Unit filename="path.txt" />
+		<Unit filename="traseu.txt" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
